@@ -1,0 +1,22 @@
+[
+  {
+    "id": "palm1",
+    "arabic_name": "نخلة برحي",
+    "latin_name": "Phoenix dactylifera",
+    "watering_guide": "كل 7 أيام صيفًا، كل 15 يومًا شتاءً",
+    "fertilization_schedule": "مرة كل 3 أشهر بسماد NPK",
+    "pruning_tips": "إزالة السعف اليابس كل 6 أشهر",
+    "last_care_date": "2025-12-20",
+    "notes": "تحتاج إلى حماية من الرياح القوية"
+  },
+  {
+    "id": "olive1",
+    "arabic_name": "زيتون نبالي",
+    "latin_name": "Olea europaea",
+    "watering_guide": "كل 10 أيام صيفًا، كل 20 يومًا شتاءً",
+    "fertilization_schedule": "بداية الربيع والخريف",
+    "pruning_tips": "تقليم خفيف بعد الحصاد",
+    "last_care_date": "2025-12-18",
+    "notes": "تتحمل الجفاف وتحتاج شمس مباشرة"
+  }
+]
